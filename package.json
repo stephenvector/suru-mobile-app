@@ -2,6 +2,16 @@
   "name": "suru-mobile-app",
   "version": "0.0.1",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenvector/suru-mobile-app.git"
+  },
+  "author": "Stephen Vector",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenvector/suru-mobile-app/issues"
+  },
+  "homepage": "https://github.com/stephenvector/suru-mobile-app#readme",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

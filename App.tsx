@@ -118,11 +118,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#f2f2f2',
     borderRadius: 3,
     color: '#000',
-    fontFamily: 'monospace',
     padding: 8,
   },
   logo: {
-    fontFamily: 'monospace',
     fontWeight: 'bold',
     fontSize: 10,
   },

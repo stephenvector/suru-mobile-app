@@ -1,4 +1,4 @@
-package com.surumobileapp;
+package com.mytsproject;
 
 import android.app.Application;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.surumobileapp;
+package com.mytsproject;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "SuruMobileApp";
+    return "MyTSProject";
   }
 }
